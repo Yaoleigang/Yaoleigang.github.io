@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yanxintec.ELoanIos</string>
+				<string>BigData.com.TestApp</string>
 				<key>bundle-version</key>
-				<string>6.6.5</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>飞贷</string>
+				<string>TestApp</string>
 			</dict>
 		</dict>
 	</array>
